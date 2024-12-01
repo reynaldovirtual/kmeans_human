@@ -8,3 +8,5 @@ Ana Fernanda Marinho Azevedo Alves
 Reynaldo de Oliveira Santos
 
 Data de entrega: 01 de dezembro de 2024
+
+Este relatório documenta o projeto de aplicação do algoritmo K-means no dataset 'Human Activity Recognition Using Smartphones'. 
